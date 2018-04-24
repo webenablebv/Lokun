@@ -1,0 +1,7 @@
+{
+  "name": "check-gcp-instances",
+  "version": "0.1.0",
+  "dependencies": {
+    "@google-cloud/compute": "^0.10.0"
+  }
+}
